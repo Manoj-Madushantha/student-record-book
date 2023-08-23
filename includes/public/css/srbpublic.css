@@ -1,0 +1,8 @@
+.srb_table {
+    width: 30%;
+    margin: auto;
+}
+
+.srb_table > tr > td {
+    padding: 5px 5px 5px 5px;
+}
